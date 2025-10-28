@@ -6,6 +6,8 @@ readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
     "jupyterlab>=4.4.10",
+    "kafka-python>=2.2.15",
     "pandoc>=2.4",
     "pyspark>=4.0.1",
+    "yfinance>=0.2.66",
 ]
