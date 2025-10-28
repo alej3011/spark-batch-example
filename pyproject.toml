@@ -1,0 +1,11 @@
+[project]
+name = "spark-batch"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "jupyterlab>=4.4.10",
+    "pandoc>=2.4",
+    "pyspark>=4.0.1",
+]
